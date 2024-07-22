@@ -12,4 +12,4 @@
 
 7. Type in whatever you like for the name and activation code because it doesn't matter and click "Activate"
 
-8. You're done and can do whatever you like!
+8. You're done and can do whatever you want now!
