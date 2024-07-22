@@ -2,7 +2,7 @@
 
 2. After Netbalancer is installed go to your task manager and search for "SeriousBit.Netbalancer.Service" under processes and then end the task.
 
-3. Go to "C:\Program Files\NetBalancer" and drag the "SeriousBit.Ellipter.dll" into you the files so it replaces the old one.
+3. Go to "C:\Program Files\NetBalancer" and drag the "SeriousBit.Ellipter.dll" into the files so it replaces the old one.
 
 4. Start Netbalancer (It will ask you to start their service again just click yes)
 
